@@ -1,0 +1,21 @@
+We are not requesting a lab report for Lab 1.  When I first wrote this answer, I thought we had, but I then checked Moodle and saw only code is requested, so I edited this reply.  Be sure your Lab1 code uses early stopping, though.
+
+ 
+
+As mentioned in the original deck of lecture notes, we aren't requesting you describe the algorithms.   You can also assume the reader knows what train, tune, and test sets are. 
+
+ 
+
+For Lab 2 just report the results of the experiments requested (in those lecture notes) and discuss the results.  The discussion might be two pages (not counting your plots of results) since a bit of experimentation is requested.   It is always a good idea to briefly say WHY an experiment is being done (e.g., to see if Approach A or Approach B is better).  Be sure to show the early-stopping empirical results.  Do this for the basic backprop approach as well as for the do-at-least-2-of-these-3 extensions.  Don't put too many curves (e.g., three is a good choice) in one graph, but do discuss the results across the algorithmic variations.  Consider creating a summary table of results to focus your discussion.
+
+ 
+
+We haven't stated any experiments for Lab 3 yet.  In the slides on the Lab 3 dataset that our TA will present soon we will state the experiment(s) you should run.  Most likely it will be a 'learning curve,' which we will explain at that time.
+
+ 
+
+We won't be grading your lab discussions rigorously.  Be sure to do the requested experiment(s) and think about their results.  We also will test your code, for all three labs, on some different datasets (that use the same notation for examples).  Be sure to comment your code.
+
+ 
+
+Jude
